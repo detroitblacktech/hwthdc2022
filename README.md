@@ -20,7 +20,4 @@ This is the central location for all slides and code that's being presented at t
 |Technology Behind NFT’s: Building Smart Contracts 101 (5pm-5:55pm) | John Wolff | [View]( https://docs.google.com/presentation/d/1lsJUpjYBxb2M8yMtlNBfJks59DMlh4ggH2Kd0np2AZg/edit?usp=sharing)|[View]()|
 |Integrating MetaMask Into Your Web Applications (6pm-6:55pm) | Briant Campbell | [View](https://docs.google.com/presentation/d/1EDsno7Qw5DU-qZfia9MQ16ak4_y_cW5vh0VWwgCSA2o/edit#slide=id.g7e92ecccc8_1_19)|[View]()|
 
-### Day 2: Thursday, February 25, 2022
-
-
 ## Cheetsheets
