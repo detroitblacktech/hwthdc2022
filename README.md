@@ -1,4 +1,4 @@
-# Hacking With The Homies Developer Conference 2021 Central Repository
+# Hacking With The Homies Developer Conference 2022 Central Repository
 
 This is the central location for all slides and code that's being presented at the conference.  We have also provided links to some reference information.
 
