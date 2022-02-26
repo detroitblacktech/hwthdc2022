@@ -26,7 +26,7 @@ This is the central location for all slides and code that's being presented at t
 | Topic | Speaker | Slides | Repository |
 | ------- | ----- | -------| ---------- |
 | Keynote Panel (12:15pm-12:55pm) | Dr Marlo Rencher, Chad Rhodes, Mack Hendricks | ||
-| Setting up Your Crypto Wallet (1pm-1:55pm) | Andrew Cameron | [View] (https://docs.google.com/presentation/d/1-C1a5r5Z71Xmwao9BsVdzdxpjdWBkMGb/edit?usp=sharing&ouid=114112750385234297070&rtpof=true&sd=true)||
+| Setting up Your Crypto Wallet (1pm-1:55pm) | Andrew Cameron | [View](https://docs.google.com/presentation/d/1-C1a5r5Z71Xmwao9BsVdzdxpjdWBkMGb/edit?usp=sharing&ouid=114112750385234297070&rtpof=true&sd=true)||
 | Introduction to NFT's (2pm-2:55pm) | Mack Hendricks | [View](https://docs.google.com/presentation/d/1pRdBBzvsrA_TZQF5lLxLLURV7sdrF4Tg9VwFjMrweZM/edit#slide=id.g11758ea38c6_0_6)| |
 | Turning an Asset into an NFT (3pm-4:55pm)| Ezenwa Isiogu |[View](https://docs.google.com/presentation/d/1CCmKFNOhddqmTX9WDkazti6MrTu-zJV4Fv4V7k0lkjk/edit#slide=id.g7e92ecccc8_1_19)| |
 
